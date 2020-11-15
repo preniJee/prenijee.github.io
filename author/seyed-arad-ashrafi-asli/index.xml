@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seyed Arad Ashrafi Asli | Preni Golazizian</title>
+    <link>prenijee.github.io/author/seyed-arad-ashrafi-asli/</link>
+      <atom:link href="prenijee.github.io/author/seyed-arad-ashrafi-asli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seyed Arad Ashrafi Asli</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/prenijee.github.io/images/icon_hud9cc650abd7a57aa450b4e98c03083ec_2213766_512x512_fill_lanczos_center_2.png</url>
+      <title>Seyed Arad Ashrafi Asli</title>
+      <link>prenijee.github.io/author/seyed-arad-ashrafi-asli/</link>
+    </image>
+    
+    <item>
+      <title>Irony Detection in Persian Language: A Transfer Learning Approach Using Emoji Prediction</title>
+      <link>prenijee.github.io/publication/conference-paper/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      <guid>prenijee.github.io/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter Trend Extraction: A Graph-based Approach for Tweet and Hashtag Ranking, Utilizing No-Hashtag Tweets</title>
+      <link>prenijee.github.io/publication/conference-paper2/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      <guid>prenijee.github.io/publication/conference-paper2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Annotation Effort Using Active Learning Strategies: A Sentiment Analysis Case Study in Persian</title>
+      <link>prenijee.github.io/publication/conference-paper3/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>prenijee.github.io/publication/conference-paper3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
