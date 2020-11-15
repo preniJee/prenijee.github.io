@@ -3,11 +3,83 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>prenijee.github.io/</loc>
+    <loc>prenijee.github.io/publication-type/1/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>prenijee.github.io/authors/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>prenijee.github.io/author/behnam-sabeti/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>prenijee.github.io/publication/conference-paper/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>prenijee.github.io/author/omid-momenzadeh/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>prenijee.github.io/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>prenijee.github.io/author/preni-golazizian/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>prenijee.github.io/publication_types/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>prenijee.github.io/publication/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>prenijee.github.io/author/reza-fahmi/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>prenijee.github.io/author/seyed-arad-ashrafi-asli/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>prenijee.github.io/tag/source-themes/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>prenijee.github.io/tags/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>prenijee.github.io/author/zahra-majdabadi/</loc>
+    <lastmod>2020-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>prenijee.github.io/publication/conference-paper2/</loc>
+    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>prenijee.github.io/publication/conference-paper3/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -19,23 +91,7 @@
   </url>
   
   <url>
-    <loc>prenijee.github.io/author/preni-golazizian/</loc>
-  </url>
-  
-  <url>
-    <loc>prenijee.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>prenijee.github.io/publication/</loc>
-  </url>
-  
-  <url>
     <loc>prenijee.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>prenijee.github.io/tags/</loc>
   </url>
   
 </urlset>
