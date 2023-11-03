@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Preni Golazizian"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Third year PhD student in University of Southern California, Working at the Morality and Language lab"
   location         : "Los Angeles, California"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=cP98nJIAAAAJ&hl=en"
   email            : "golazizi@usc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   LinkedIn         : "https://www.linkedin.com/in/preni-golazizian-06571212a/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
