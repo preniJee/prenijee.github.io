@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-NLP @USC
+My Name is Preni, I am third-year Phd student in [MOLA](https://www.mola-lab.org/) lab at University of Southern California, where I work in computational social science, and NLP. I am currently interested in subjectivity in NLP tasks and modeling annotators in such tasks.
 
 News
 ======
