@@ -1,18 +1,12 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Preni Golazizian:
+  name        : "Preni Golazizian (Փրենի Գոլազիզեան)"
+  uri         :
+  email       : "golazizi@usc.edu"
+  bio         : "Ph.D. candidate @ USC. Human-Centered NLP, Responsible AI."
+  avatar      : "profile_2.jpg"
+  twitter     : "prenijee"
+  linkedin    : "preni-golazizian-06571212a"
+  googlescholar : "https://scholar.google.com/citations?user=cP98nJIAAAAJ&hl=en"
+  github      : "preniJee"

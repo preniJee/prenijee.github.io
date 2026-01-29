@@ -9,8 +9,7 @@
 locale                   : "en-US"
 title                    : "Preni Golazizian"
 title_separator          : "-"
-name                     : &name "Preni Golaziz
-ian"
+name                     : &name "Preni Golazizian"
 description              : &description "PhD student at University of Southern California"
 url                      : https://prenijee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +82,7 @@ analytics:
 author:
   name             : "Preni Golazizian (Փրենի Գոլազիզեան)"
   avatar           : "profile_2.jpg"
-  bio              : "NLP @USC"
+  bio              : "Ph.D. candidate @ USC. Human-Centered NLP, Responsible AI."
   location         : "Los Angeles, California"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "https://www.linkedin.com/in/preni-golazizian-06571212a/"
+  linkedin         : "preni-golazizian-06571212a"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
