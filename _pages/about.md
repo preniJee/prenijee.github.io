@@ -12,6 +12,7 @@ My name is Preni. I am a fifth-year Ph.D. candidate in Computer Science at the U
 
 News
 ======
+* <b>Dec 2025</b>: Our work on body-cam traffic stop analysis and the Everyday Respect Project featured in <a href="https://dornsife.usc.edu/news/stories/body-cam-traffic-stop-analysis-to-train-ai-improve-safety/">USC Dornsife News</a>: "How researchers are learning what makes police stops feel respectful."
 * <b>Sep 2024 – Jan 2025</b>: Research Scientist Intern at Apple (Human-Centered AI team), working on synthetic safety data generation for product safety evaluation. Research presented at Apple's internal ML Summit and in quarterly report to management.
 * <b>2024</b>: Paper on cost-efficient subjective task annotation and few-shot annotator adaptation accepted at EMNLP 2024.
 * <b>Oct 2023</b>: Poster presentation at NSF CIVIC challenge for our project.
