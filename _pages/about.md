@@ -12,6 +12,7 @@ My name is Preni. I am a Ph.D. candidate in Computer Science at the University o
 
 News
 ======
+* <b>Jun 2026</b>: Paper accepted at ACL 2026 — <a href="https://arxiv.org/pdf/2602.10339">The Subjectivity of Respect in Police Traffic Stops: Modeling Community Perspectives in Body-Worn Camera Footage</a>.
 * <b>Feb 2026</b>: Invited talk at Apple Human-Centered AI Team on the LAPD body-worn camera project.
 * <b>Dec 2025</b>: Our work on body-cam traffic stop analysis and the Everyday Respect Project featured in <a href="https://dornsife.usc.edu/news/stories/body-cam-traffic-stop-analysis-to-train-ai-improve-safety/">USC Dornsife News</a>: "How researchers are learning what makes police stops feel respectful."
 * <b>Sep 2024 – Jan 2025</b>: Research Scientist Intern at Apple (Human-Centered AI team), working on synthetic safety data generation for product safety evaluation. Research presented at Apple's internal ML Summit and in quarterly report to management.
