@@ -7,8 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+My name is Preni. I am a Ph.D. candidate in Computer Science at the University of Southern California, working in the Morality and Language Lab (MOLA) under the supervision of Morteza Dehghani.
 
-My name is Preni. I am a Ph.D. candidate in Computer Science at the University of Southern California (expected May 2026), working in the [Morality and Language Lab (MOLA)](https://www.mola-lab.org/) with my advisor Morteza Dehghani. My work spans **NLP and ML** with a focus on end-to-end model development—from data pipeline design and scalable post-training to evaluation frameworks and deployment. Core research interests include **sequence modeling**, **preference optimization** (DPO/RLHF), **synthetic data generation**, and rigorous experimental design for hard, underspecified problems. I thrive in small, high-ownership team environments and am comfortable taking initiative on ambiguous work and seeing it through to production.
+My research focuses on building machine learning systems that can better account for human differences in perspective, values, and interpretation. I work on language model alignment, personalization, evaluation, and synthetic data generation, with a particular interest in subjective and ambiguous tasks where there may be multiple valid viewpoints rather than a single correct answer.
+
+More broadly, I am interested in human-centered AI, understanding how people interpret language differently, and developing methods that enable models to adapt to diverse users and contexts.
+
+
 
 News
 ======
